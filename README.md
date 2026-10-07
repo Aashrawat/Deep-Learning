@@ -1,2 +1,2 @@
 # Deep-Learning
-Building knowledge about deepLearning
+Projects of  ANN, CNN AND RNN
