@@ -18,4 +18,4 @@ Press `q` to close the window.
 py emotionDetection/emotionDetection.py --train
 ```
 
-That fits the Keras model for 30 epochs and saves `emotion_model.weights.h5`. The live camera uses the ONNX models in `emotionDetection/models/`.
+That fits the Keras model for 30 epochs and saves `emotion_model.weights.h5`. The live camera uses the ONNX models in `emotionDetection/models/`..
