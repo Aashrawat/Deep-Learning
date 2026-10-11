@@ -4,7 +4,7 @@
 | --- | --- |
 | [`Basic.ipynb`](Basic.ipynb) | Binary classification on a plant-watering example |
 | [`ANN/`](ANN/) | Iris species with a perceptron, then a multilayer network |
-| [`CNN/`](CNN/) | Convolutional networks |
+| [`CNN/`](CNN/) | Facial emotion detection with a convolutional network |
 | [`RNN/`](RNN/) | Recurrent networks |
 
 - **[ANN/README.md](ANN/README.md)**
